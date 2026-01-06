@@ -66,7 +66,8 @@ npm run dev
 
 ## Screenshots & Demo
 
-Screenshots and demo videos will be added here.
+
+![FF9054F0-F707-467E-BE83-A1CD3EE6ED17_1_102_o](https://github.com/user-attachments/assets/7e9d2c2a-fd93-4f94-ae8e-c6b84a307958)
 
 ---
 

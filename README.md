@@ -67,7 +67,7 @@ npm run dev
 ## Screenshots & Demo
 
 
-![FF9054F0-F707-467E-BE83-A1CD3EE6ED17_1_102_o](https://github.com/user-attachments/assets/7e9d2c2a-fd93-4f94-ae8e-c6b84a307958)
+https://github.com/user-attachments/assets/5e450216-79e7-4879-8243-5394baa1aa0c
 
 ---
 

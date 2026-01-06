@@ -4,6 +4,11 @@ FlixStats is a movie analytics dashboard built with **React**, **Tailwind CSS**,
 
 ---
 
+## Demo
+https://github.com/user-attachments/assets/5e450216-79e7-4879-8243-5394baa1aa0c
+
+---
+
 ## Features
 
 - Interactive Charts
@@ -61,13 +66,6 @@ npx tailwindcss init -p
 ```bash
 npm run dev
 ```
-
----
-
-## Screenshots & Demo
-
-
-https://github.com/user-attachments/assets/5e450216-79e7-4879-8243-5394baa1aa0c
 
 ---
 
